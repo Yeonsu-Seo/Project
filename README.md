@@ -96,12 +96,13 @@
 ### 4. Program(Main)
 #### 프로그램의 main 부분입니다. 데이터와 만든 함수로 스도쿠 게임을 프로그래밍하였습니다.
 #### (주석 참조)
-<img src="images/program.png">
+<img src="images/program1.png">
+<img src="images/program2.png">
    
 
 
 ## 실행 결과
-<img src="images/program.png">
+<img src="images/result.png">
 
 ### 난이도 선택
 #### 프로그램을 실행하면 플레이할 난이도를 선택하게 합니다.

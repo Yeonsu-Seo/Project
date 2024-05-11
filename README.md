@@ -1,7 +1,10 @@
 # project
 
 ### 스도쿠 게임을 하는 프로그램입니다.
+<img src="sudokuExample.png">
 #### 스도쿠는 00000000을 하는 게임입니다.
+####
+
 
 ## 기능
 ### 1. 난이도 선택
@@ -14,12 +17,46 @@
 #### - 게임 종료(프로그램을 종료합니다.)
 ### 3. 순위
 #### play time에 걸린 시간을 기준으로 순위를 보여줍니다.
+####
+
 
 ## 코드
 #### 코드는 모듈, 함수, 데이터, 메인(프로그램)으로 크게 4가지로 나누어 작성하였습니다.
-### 1. Modules
-### 2. Functions
-### 3. Data
-### 4. Program(Main)
 
-<img src="img1.png">
+### 1. Modules
+#### 프로그래밍에 필요한 모듈을 import합니다.
+<img src="modules.png">
+#### - random 모듈
+####   스도쿠 문제를 생성할 때 사용합니다. (makeSudoku() 함수에 사용)
+<img src="random.png">
+#### - copy 모듈
+####   스도쿠 보드(List)를 복제할 때 사용합니다. (makeSudoku() 함수에 사용)
+<img src="copy.png">
+#### - time 모듈
+####   스도쿠 풀이 순위를 내기 위해 사용합니다. (program(main)에서 사용)
+<img src="time.png">
+
+### 2. Functions
+#### main program에 필요한 함수를 작성하였습니다.
+<img src="functions.png">
+#### dddddddd
+
+### 3. Data
+#### 스도쿠 문제들(data)입니다.
+<img src="dataSet.png">
+#### 난이도 별로 문제(List)와 정답(List)을 가지고 있습니다.
+<img src="dataEasy.png">
+<img src="dataMedium.png">
+<img src="dataHard.png">
+#### data source: Guru Puzzle Game
+
+### 4. Program(Main)
+#### 프로그램의 main 부분입니다. 데이터와 만든 함수로 스도쿠 게임을 프로그래밍하였습니다.
+#### (주석 참조)
+<img src="program.png">
+####
+
+
+## 실행 결과
+<img src="program.png">
+### ddddddd

@@ -91,6 +91,7 @@
 <p align="center"><img src="images/dataSet.png"></p>
 
 <p> 난이도 별로 문제(List)와 정답(List)을 가지고 있습니다.</p>
+
 #### Easy Data
 <p align="center"><img src="images/dataEasy.png"></p>
 <p align="center"><img src="images/dataEasySol.png"></p>
@@ -103,7 +104,7 @@
 <p align="center"><img src="images/dataHard.png"></p>
 <p align="center"><img src="images/dataHardSol.png"></p>
 
-#### data source: Guru Puzzle Game
+#### $\it{data source: Guru Puzzle Game}$
 <br/>
 
 ### 4. Program(Main)

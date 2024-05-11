@@ -43,7 +43,7 @@
 
 <p> - copy 모듈</p>
 <p>   스도쿠 보드(List)를 복제할 때 사용합니다. (makeSudoku() 함수에 사용)</p>
-<img src="images/cpoy.png">
+<img src="images/copy.png">
 
 <p> - time 모듈</p>
 <p>   스도쿠 풀이 순위를 내기 위해 사용합니다. (program(main)에서 사용)</p>

@@ -2,8 +2,9 @@
 
 ### 스도쿠 게임을 하는 프로그램입니다.
 <img src="images/sudokuExample.png">
+
 #### 스도쿠는 가로 9칸, 세로 9칸으로 이루어진 9x9 보드에서 빈 칸을 정해진 규칙에 맞도록 채우는 게임입니다.
-   
+      
 
 
 ## 기능
@@ -26,9 +27,11 @@
 ### 1. Modules
 #### 프로그래밍에 필요한 모듈을 import합니다.
 <img src="images/modules.png">
+
 #### - random 모듈
 ####   스도쿠 문제를 생성할 때 사용합니다. (makeSudoku() 함수에 사용)
 <img src="images/random.png">
+
 #### - copy 모듈
 ####   스도쿠 보드(List)를 복제할 때 사용합니다. (makeSudoku() 함수에 사용)
 #### - time 모듈
@@ -38,15 +41,18 @@
 ### 2. Functions
 #### main program에 필요한 함수를 작성하였습니다.
 <img src="images/functions.png">
+
 #### dddddddd
 
 ### 3. Data
 #### 스도쿠 문제들(data)입니다.
 <img src="images/dataSet.png">
+
 #### 난이도 별로 문제(List)와 정답(List)을 가지고 있습니다.
 <img src="images/dataEasy.png">
 <img src="images/dataMedium.png">
 <img src="images/dataHard.png">
+
 #### data source: Guru Puzzle Game
 
 ### 4. Program(Main)

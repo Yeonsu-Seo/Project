@@ -1,4 +1,4 @@
-# project
+#  Project
 
 ### 스도쿠 게임을 하는 프로그램입니다.
 <img src="images/sudokuExample.png">

@@ -104,14 +104,14 @@
 <p align="center"><img src="images/dataHard.png"></p>
 <p align="center"><img src="images/dataHardSol.png"></p>
 
-#### data source: $\color{{#6580DD}Guru}$ $\color{{#6580DD}Puzzle}$ $\color{{#6580DD}Game}$
+### Data source: Guru Puzzle Game
 <br/>
 
 ### 4. Program(Main)
 #### 프로그램의 main 부분입니다. 데이터와 만든 함수로 스도쿠 게임을 프로그래밍하였습니다.
 #### (주석 참조)
-<img src="images/program1.png">
-<img src="images/program2.png">
+<p align="center"><img src="images/program1.png"></p>
+<p align="center"><img src="images/program2.png"></p>
 <br/>
 
 

@@ -32,6 +32,7 @@
 ## $\bf{\color{#6580DD}코드}$
 #### 코드는 모듈, 함수, 데이터, 메인(프로그램)으로 크게 4가지로 나누어 작성하였습니다.
 <p align="center"><img src="images/code.png"></p>
+<br/>
 
 ### 1. Modules
 #### 프로그래밍에 필요한 모듈을 import합니다.
@@ -43,44 +44,47 @@
 
 <p> - copy 모듈</p>
 <p>   스도쿠 보드(List)를 복제할 때 사용합니다. (makeSudoku() 함수에 사용)</p>
-<img src="images/copy.png">
+<p align="center"><img src="images/copy.png"></p>
 
 <p> - time 모듈</p>
 <p>   스도쿠 풀이 순위를 내기 위해 사용합니다. (program(main)에서 사용)</p>
-<img src="images/time.png">
+<p align="center"><img src="images/time.png"></p>
+<br/>
 
 ### 2. Functions
 #### main program에 필요한 함수를 작성하였습니다.
-<img src="images/functions.png">
+<p align="center"><img src="images/functions.png"></p>
 
-#### 2-1. 난이도 선택
-#### 2-1-1. 난이도 입력 함수
-#### 2-1-2. 난이도 선택 확인
-<img src="images/difficulty.png">
+#### (함수 주석과 docstring 참고)
+<p> 2-1. 난이도 선택</p>
+<p> 2-1-1. 난이도 입력 함수</p>
+<p> 2-1-2. 난이도 선택 확인</p>
+<p align="center"><img src="images/difficulty.png"></p>
 
-#### 2-2. 스도쿠 문제
-#### 2-2-1. 스도쿠 문제 생성
-#### 2-2-2. 스도쿠 판 보여주기
-<img src="images/sudokuShow.png">
+<p> 2-2. 스도쿠 문제</p>
+<p> 2-2-1. 스도쿠 문제 생성</p>
+<p> 2-2-2. 스도쿠 판 보여주기</p>
+<p align="center"><img src="images/sudokuShow.png"></p>
 
-#### 2-3. 스도쿠 플레이
-#### 2-3-1. 보기 중 고르기
-#### 2-3-2. 보기1
-<img src="images/play1.png">
+<p> 2-3. 스도쿠 플레이</p>
+<p> 2-3-1. 보기 중 고르기</p>
+<p> 2-3-2. 보기1</p>
+<p align="center"><img src="images/play1.png"></p>
 
-#### 2-3-3. 보기2
-#### 2-3-4. 보기3
-#### 2-3-5. 보기4
-<img src="images/play2.png">
+<p> 2-3-3. 보기2</p>
+<p> 2-3-4. 보기3</p>
+<p> 2-3-5. 보기4</p>
+<p align="center"><img src="images/play2.png"></p>
 
 
-#### 2-4. 스도쿠 (시간) 랭킹
-#### 2-4-1. 랭킹 목록 추가
-#### 2-4-2. 순위 공개
-<img src="images/ranking.png">
+<p> 2-4. 스도쿠 (시간) 랭킹</p>
+<p> 2-4-1. 랭킹 목록 추가</p>
+<p> 2-4-2. 순위 공개</p>
+<p align="center"><img src="images/ranking.png"></p>
 
-#### 2-5. 프로그램 진행 여부
-<img src="images/gameOff.png">
+<p> 2-5. 프로그램 진행 여부</p>
+<p align="center"><img src="images/gameOff.png"></p>
+<br/>
 
 ### 3. Data
 #### 스도쿠 문제들(data)입니다.

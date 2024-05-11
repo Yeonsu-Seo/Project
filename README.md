@@ -4,7 +4,7 @@
 <img src="images/sudokuExample.png">
 
 #### 스도쿠는 가로 9칸, 세로 9칸으로 이루어진 9x9 보드에서 빈 칸을 정해진 규칙에 맞도록 채우는 게임입니다.
-      
+####    
 
 
 ## 기능
@@ -64,4 +64,5 @@
 
 ## 실행 결과
 <img src="images/program.png">
+
 ### ddddddd

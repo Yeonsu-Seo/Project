@@ -45,7 +45,34 @@
 #### main program에 필요한 함수를 작성하였습니다.
 <img src="images/functions.png">
 
-#### dddddddd
+#### 2-1. 난이도 선택
+#### 2-1-1. 난이도 입력 함수
+#### 2-1-2. 난이도 선택 확인
+<img src="images/difficulty.png">
+
+#### 2-2. 스도쿠 문제
+#### 2-2-1. 스도쿠 문제 생성
+#### 2-2-2. 스도쿠 판 보여주기
+<img src="images/sudokuShow.png">
+
+#### 2-3. 스도쿠 플레이
+#### 2-3-1. 보기 중 고르기
+#### 2-3-2. 보기1
+<img src="images/play1.png">
+
+#### 2-3-3. 보기2
+#### 2-3-4. 보기3
+#### 2-3-5. 보기4
+<img src="images/play2.png">
+
+
+#### 2-4. 스도쿠 (시간) 랭킹
+#### 2-4-1. 랭킹 목록 추가
+#### 2-4-2. 순위 공개
+<img src="images/ranking.png">
+
+#### 2-5. 프로그램 진행 여부
+<img src="images/gameOff.png">
 
 ### 3. Data
 #### 스도쿠 문제들(data)입니다.

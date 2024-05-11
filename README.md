@@ -31,15 +31,15 @@
 
 ## $\bf{\color{#6580DD}코드}$
 #### 코드는 모듈, 함수, 데이터, 메인(프로그램)으로 크게 4가지로 나누어 작성하였습니다.
-<img src="images/code.png">
+<p align="center"><img src="images/code.png"></p>
 
 ### 1. Modules
 #### 프로그래밍에 필요한 모듈을 import합니다.
-<img src="images/modules.png">
+<p align="center"><img src="images/modules.png"></p>
 
 <p> - random 모듈</p>
 <p>   스도쿠 문제를 생성할 때 사용합니다. (makeSudoku() 함수에 사용)</p>
-<img src="images/random.png">
+<p align="center"><img src="images/random.png"></p>
 
 <p> - copy 모듈</p>
 <p>   스도쿠 보드(List)를 복제할 때 사용합니다. (makeSudoku() 함수에 사용)</p>

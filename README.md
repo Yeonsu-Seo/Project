@@ -160,44 +160,39 @@
 <br/>
 
 ### 4번 보기
-#### 4번을 선택한 경우, 게임 종료 선택 confirm.
-<img src="images/?.png">
-
-#### 프로그램 종료를 원하는 경우, 프로그램이 종료됩니다.
-
-#### 프로그램 종료를 원하지 않는 경우, 진행하던 판으로 돌아가서 4가지 보기 중 고를 수 있도록 합니다.
+<p> 4번을 선택한 경우, 게임 종료 선택 confirm.</p>
+<p> 프로그램 종료를 원하지 않는 경우, 진행하던 판으로 돌아가서 4가지 보기 중 고를 수 있도록 합니다.</p>
+<p> 프로그램 종료를 원하는 경우, 프로그램이 종료됩니다.</p>
+<p align="center"><img src="images/11.png"></p>
+<br/>
 
 ### 랭킹
-#### 스도쿠 한 게임이 성공적으로 끝나면 그 판의 순위를 알려주고 게임을 계속 진행할 것인지 입력받습니다.
-<img src="images/?.png">
-
-#### 계속 진행하지 않는 경우, 프로그램은 종료됩니다.
-<img src="images/?.png">
-
-#### 계속 진행을 원하는 경우, 난이도 선택으로 돌아가 위를 반복합니다.
-<img src="images/?.png">
-
+<p> 스도쿠 한 게임이 성공적으로 끝나면 그 판의 순위를 알려주고 게임을 계속 진행할 것인지 입력받습니다.</p>
+<p> 진행을 원하지 않는 경우, 프로그램은 종료됩니다.</p>
+<p> 진행을 원하는 경우, 난이도 선택으로 돌아가 위를 반복합니다.</p>
+<p align="center"><img src="images/12.png"></p>
+<br/>
 
 ### 잘못된 입력에 대한 처리
-#### 입력받는 모든 경우에 대하여 잘못된 입력 시, 제대로된 입력이 있을 때까지 입력받습니다.
+<p> 입력받는 모든 경우에 대하여 잘못된 입력 시, 제대로된 입력이 있을 때까지 입력받습니다.</p>
 
-#### 난이도 선택 및 선택 confirm
-<img src="images/?.png">
+<p> 난이도 선택 및 선택 confirm</p>
+<p align="center"><img src="images/13.png"></p>
 
-#### 스도쿠 플레이 보기 선택
-<img src="images/?.png">
+<p> 스도쿠 플레이 보기 선택</p>
+<p align="center"><img src="images/14.png"></p>
 
-#### 스도쿠 플레이 1번 보기 중 행, 열, 숫자
-<img src="images/?.png">
+<p> 스도쿠 플레이 1번 보기 중 행, 열, 숫자</p>
+<p align="center"><img src="images/15.png"></p>
 
-#### 스도쿠 플레이 2번 보기 중 행, 열
-<img src="images/?.png">
+<p> 스도쿠 플레이 2번 보기 중 행, 열</p>
+<p align="center"><img src="images/16.png"></p>
 
-#### 스도쿠 플레이 3번 보기 선택 confirm
-<img src="images/?.png">
+<p> 스도쿠 플레이 3번 보기 선택 confirm</p>
+<p align="center"><img src="images/17.png"></p>
 
-#### 스도쿠 플레이 4번 보기 선택 confirm
-<img src="images/?.png">
+<p> 스도쿠 플레이 4번 보기 선택 confirm</p>
+<p align="center"><img src="images/18.png"></p>
 
-#### 다음 스도쿠 진행 여부 선택
-<img src="images/?.png">
+<p> 다음 스도쿠 진행 여부 선택</p>
+<p align="center"><img src="images/19.png"></p>

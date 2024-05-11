@@ -6,13 +6,13 @@
 <br/>
 
 ## $\bf{\color{#6580DD}목차}$
-### 기능
-### 코드
-### 실행 결과
+<p>프로그램 기능</p>
+<p>코드</p>
+<p>실행 결과</p>
 <br/>
 
 
-## $\bf{\color{#6580DD}기능}$
+## $\bf{\color{#6580DD}프로그램 기능}$
 ### 1. 난이도 선택
 <p>Easy, Medium, Hard 중 선택할 수 있습니다.</p>
 
@@ -37,16 +37,16 @@
 #### 프로그래밍에 필요한 모듈을 import합니다.
 <img src="images/modules.png">
 
-#### - random 모듈
-####   스도쿠 문제를 생성할 때 사용합니다. (makeSudoku() 함수에 사용)
+<p> - random 모듈</p>
+<p>   스도쿠 문제를 생성할 때 사용합니다. (makeSudoku() 함수에 사용)</p>
 <img src="images/random.png">
 
-#### - copy 모듈
-####   스도쿠 보드(List)를 복제할 때 사용합니다. (makeSudoku() 함수에 사용)
+<p> - copy 모듈</p>
+<p>   스도쿠 보드(List)를 복제할 때 사용합니다. (makeSudoku() 함수에 사용)</p>
 <img src="images/cpoy.png">
 
-#### - time 모듈
-####   스도쿠 풀이 순위를 내기 위해 사용합니다. (program(main)에서 사용)
+<p> - time 모듈</p>
+<p>   스도쿠 풀이 순위를 내기 위해 사용합니다. (program(main)에서 사용)</p>
 <img src="images/time.png">
 
 ### 2. Functions
@@ -106,7 +106,7 @@
 #### (주석 참조)
 <img src="images/program1.png">
 <img src="images/program2.png">
-   
+<br/>
 
 
 ## $\bf{\color{#6580DD}실행 결과}$

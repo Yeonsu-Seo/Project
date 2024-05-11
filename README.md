@@ -104,7 +104,7 @@
 <p align="center"><img src="images/dataHard.png"></p>
 <p align="center"><img src="images/dataHardSol.png"></p>
 
-#### $\it{data source: Guru Puzzle Game}$
+#### data source: $\color{{#6580DD}Guru}$ $\color{{#6580DD}Puzzle}$ $\color{{#6580DD}Game}$
 <br/>
 
 ### 4. Program(Main)

@@ -116,14 +116,14 @@
 
 
 ## $\bf{\color{#6580DD}실행 결과}$
-<img src="images/result.png">
 
 ### 난이도 선택
-#### 프로그램을 실행하면 플레이할 난이도를 선택하게 합니다.
-<img src="images/1.png">
+<p>프로그램을 실행하면 플레이할 난이도를 선택하게 합니다.</p>
+<p align="center"><img src="images/1.png"></p>
 
-#### 난이도 선택에 대해 confirm. 확인받은 경우 스도쿠 문제를 주고 아닌 경우 다시 난이도를 선택하게 합니다.
-<img src="images/4.png">
+<p>난이도 선택에 대해 confirm. 확인받은 경우 스도쿠 문제를 주고 아닌 경우 다시 난이도를 선택하게 합니다.</p>
+<p align="center"><img src="images/4.png"></p>
+<br/>
 
 ### 스도쿠 플레이
 #### 스도쿠 문제에 대해 4가지 선택 보기를 주고 선택하도록 합니다.

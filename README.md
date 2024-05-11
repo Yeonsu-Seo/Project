@@ -88,22 +88,23 @@
 
 ### 3. Data
 #### 스도쿠 문제들(data)입니다.
-<img src="images/dataSet.png">
+<p align="center"><img src="images/dataSet.png"></p>
 
-#### 난이도 별로 문제(List)와 정답(List)을 가지고 있습니다.
+<p> 난이도 별로 문제(List)와 정답(List)을 가지고 있습니다.</p>
 #### Easy Data
-<img src="images/dataEasy.png">
-<img src="images/dataEasySol.png">
+<p align="center"><img src="images/dataEasy.png"></p>
+<p align="center"><img src="images/dataEasySol.png"></p>
 
 #### Medium Data
-<img src="images/dataMedium.png">
-<img src="images/dataMediumSol.png">
+<p align="center"><img src="images/dataMedium.png"></p>
+<p align="center"><img src="images/dataMediumSol.png"></p>
 
 #### Hard Data
-<img src="images/dataHard.png">
-<img src="images/dataHardSol.png">
+<p align="center"><img src="images/dataHard.png"></p>
+<p align="center"><img src="images/dataHardSol.png"></p>
 
 #### data source: Guru Puzzle Game
+<br/>
 
 ### 4. Program(Main)
 #### 프로그램의 main 부분입니다. 데이터와 만든 함수로 스도쿠 게임을 프로그래밍하였습니다.

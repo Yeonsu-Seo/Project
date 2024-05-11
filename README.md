@@ -1,7 +1,6 @@
 #  Project
 
 <p>Sudoku Program은 스도쿠 게임을 하는 프로그램입니다.</p>
-<p align="center"><img src="images/sudokuExample.png"></p>
 <p>스도쿠란 가로 9칸, 세로 9칸으로 이루어진 9x9 보드에서 빈 칸을 정해진 규칙에 맞도록 채우는 게임입니다.</p>
 <br/>
 

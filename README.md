@@ -171,28 +171,30 @@
 <p> 진행을 원하지 않는 경우, 프로그램은 종료됩니다.</p>
 <p> 진행을 원하는 경우, 난이도 선택으로 돌아가 위를 반복합니다.</p>
 <p align="center"><img src="images/12.png"></p>
+<p align="center"><img src="images/13.png"></p>
 <br/>
 
 ### 잘못된 입력에 대한 처리
 <p> 입력받는 모든 경우에 대하여 잘못된 입력 시, 제대로된 입력이 있을 때까지 입력받습니다.</p>
 
 <p> 난이도 선택 및 선택 confirm</p>
-<p align="center"><img src="images/13.png"></p>
-
-<p> 스도쿠 플레이 보기 선택</p>
 <p align="center"><img src="images/14.png"></p>
 
-<p> 스도쿠 플레이 1번 보기 중 행, 열, 숫자</p>
+<p> 스도쿠 플레이 보기 선택</p>
 <p align="center"><img src="images/15.png"></p>
 
-<p> 스도쿠 플레이 2번 보기 중 행, 열</p>
+<p> 스도쿠 플레이 1번 보기 중 행, 열 + 숫자</p>
 <p align="center"><img src="images/16.png"></p>
-
-<p> 스도쿠 플레이 3번 보기 선택 confirm</p>
 <p align="center"><img src="images/17.png"></p>
 
-<p> 스도쿠 플레이 4번 보기 선택 confirm</p>
+<p> 스도쿠 플레이 2번 보기 중 행, 열</p>
 <p align="center"><img src="images/18.png"></p>
 
-<p> 다음 스도쿠 진행 여부 선택</p>
+<p> 스도쿠 플레이 3번 보기 선택 confirm</p>
 <p align="center"><img src="images/19.png"></p>
+
+<p> 스도쿠 플레이 4번 보기 선택 confirm</p>
+<p align="center"><img src="images/20.png"></p>
+
+<p> 다음 스도쿠 진행 여부 선택</p>
+<p align="center"><img src="images/21.png"></p>

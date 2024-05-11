@@ -103,7 +103,7 @@
 <p align="center"><img src="images/dataHard.png"></p>
 <p align="center"><img src="images/dataHardSol.png"></p>
 
-### Data source: Guru Puzzle Game
+#### Sudoku Data source: Guru Puzzle Game
 <br/>
 
 ### 4. Program(Main)

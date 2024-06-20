@@ -59,7 +59,7 @@
 #### main program에 필요한 함수를 작성하였습니다.
 <p align="center"><img src="images/functions.png"></p>
 
-#### (함수 주석과 docstring 참고)
+### (함수 주석과 docstring 참고)
 <p> 2-1. 난이도 선택</p>
 <p> 2-1-1. 난이도 입력 함수</p>
 <p> 2-1-2. 난이도 선택 확인</p>
